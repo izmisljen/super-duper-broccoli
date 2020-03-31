@@ -14,6 +14,7 @@ namespace PIS_vj1
             int var = 4;
             var = var + 1;
             Console.WriteLine("nova linija");
+            Console.WriteLine("popravak");
         }
     }
 }
